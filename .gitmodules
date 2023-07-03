@@ -5,6 +5,9 @@
 [submodule "abbyyR"]
 	path = abbyyR
 	url = https://github.com/gojiplus/abbyyr
+[submodule "captr"]
+	path = captr
+	url = https://github.com/gojiplus/captr
 [submodule "clarifai"]
 	path = clarifai
 	url = https://github.com/gojiplus/clarifai
