@@ -11,6 +11,9 @@
 [submodule "clarifai"]
 	path = clarifai
 	url = https://github.com/gojiplus/clarifai
+[submodule "tuber"]
+	path = tuber
+	url = https://github.com/gojiplus/tuber
 [submodule "tubern"]
 	path = tubern
 	url = https://github.com/gojiplus/tubern
