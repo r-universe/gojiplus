@@ -8,9 +8,6 @@
 [submodule "clarifai"]
 	path = clarifai
 	url = https://github.com/gojiplus/clarifai
-[submodule "guess"]
-	path = guess
-	url = https://github.com/gojiplus/guess
 [submodule "tuber"]
 	path = tuber
 	url = https://github.com/gojiplus/tuber
