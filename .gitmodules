@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "captr"]
-	path = captr
-	url = https://github.com/gojiplus/captr
 [submodule "clarifai"]
 	path = clarifai
 	url = https://github.com/gojiplus/clarifai
